@@ -1,0 +1,10 @@
+int (13)
+sum = 0
+K = 0
+INDICE = 10 
+while K < INDICE:
+    K = K + 1
+    sum = sum + K
+print(sum)
+
+#O resultado é 55
